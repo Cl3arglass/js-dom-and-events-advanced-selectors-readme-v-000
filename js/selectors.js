@@ -9,5 +9,5 @@
 // $('div:last');
 
 function paragraphSelector() {
-    $('p');
+    return $('p');
 }
